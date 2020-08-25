@@ -1,0 +1,7 @@
+{
+  "name": "BizuON",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
